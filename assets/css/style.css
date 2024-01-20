@@ -1,0 +1,82 @@
+.navbar-up {
+    background-color: orange;
+    color:white;
+    line-height: 1.5;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-up span {
+    vertical-align: middle; 
+    margin-top: 6px; 
+}
+
+.navbar-down img{
+
+}
+
+.navbar-down img {
+    max-width: 100%; 
+    max-height: 50px; 
+    height: auto; 
+    display: block; 
+    margin: auto; 
+}
+
+.sizinucun {
+        padding: 50px; /* Отступы вокруг содержимого, по вашему выбору */
+        text-align: center; /* Размещаем текст по центру */
+
+}
+
+.sizinucun h1 {
+    color: #333; /* Цвет текста, замените на ваш */
+    font-size: 36px; /* Размер шрифта, по вашему выбору */
+    margin: 0; /* Убираем внешние отступы для элемента h1 */
+    text-align: center; /* Размещаем текст по центру */
+}
+
+.circle img {
+    max-width: 70%; /* Устанавливаем максимальную ширину изображения в пределах контейнера */
+    height: auto; /* Позволяет изображению подстраиваться под установленную максимальную ширину */
+    display: block; /* Чтобы избежать лишних отступов вокруг изображения */
+    margin: 0 auto; /* Выравниваем изображение по центру по горизонтали */
+}
+
+.circle h3,
+.circle button {
+    text-align: center;
+    color: #888; /* Выравниваем текст по центру */
+}
+
+.circle .col-3 {
+    text-align: center; /* Выравниваем весь контент в колонке по центру */
+}
+.circle button {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+
+footer {
+    background-color: #2d727d; /* черный цвет фона */
+    color: #fff; /* цвет текста */
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+.social-icons a {
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+
+
